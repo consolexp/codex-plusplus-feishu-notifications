@@ -1,0 +1,26 @@
+{
+  "id": "io.github.consolexp.feishu-notifications",
+  "name": "Feishu Notifications",
+  "version": "0.1.0",
+  "githubRepo": "consolexp/codex-plusplus-feishu-notifications",
+  "description": "Send Feishu notifications when Codex turns complete.",
+  "author": {
+    "name": "consolexp",
+    "url": "https://github.com/consolexp"
+  },
+  "homepage": "https://github.com/consolexp/codex-plusplus-feishu-notifications",
+  "iconUrl": "./icon.svg",
+  "tags": [
+    "notifications",
+    "feishu",
+    "productivity"
+  ],
+  "scope": "both",
+  "main": "index.js",
+  "permissions": [
+    "settings",
+    "ipc",
+    "filesystem",
+    "network"
+  ]
+}
